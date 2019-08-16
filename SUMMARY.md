@@ -14,6 +14,7 @@
   * [2.4. 學生生活事務處理機制](2.-min-zhu-sheng-huo/2.4.-xue-sheng-sheng-huo-shi-wu-chu-li-ji-zhi.md)
   * [2.5. 申訴程序](2.-min-zhu-sheng-huo/2.5.-shen-su-cheng-xu.md)
   * [2.6. 上訴辦法](2.-min-zhu-sheng-huo/2.6.-shang-su-ban-fa.md)
+  * [2.7.公共案件駁回辦法](2.-min-zhu-sheng-huo/untitled.md)
 * [3. 校務＆生活規章](3.-xiao-wu-sheng-huo-gui-zhang/README.md)
   * [3.1. 校規](3.-xiao-wu-sheng-huo-gui-zhang/3.1.-xiao-gui.md)
   * [3.2. 生活公約](3.-xiao-wu-sheng-huo-gui-zhang/3.2.-sheng-huo-gong-yue/README.md)

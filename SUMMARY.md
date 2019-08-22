@@ -42,6 +42,7 @@
   * [4.10. 畢業生／肄業生留校辦法暨收費標準](4.-jiao-wu-xue-wu-gui-zhang/4.10.-bi-ye-sheng-yi-ye-sheng-liu-xiao-ban-fa-ji-shou-fei-biao-zhun.md)
   * [4.11. 非在校生課程選修辦法](4.-jiao-wu-xue-wu-gui-zhang/4.11.-fei-zai-xiao-sheng-ke-cheng-xuan-xiu-ban-fa.md)
   * [4.12. 休學、轉學/退學退費標準](4.-jiao-wu-xue-wu-gui-zhang/4.12.-xiu-xue-zhuan-xue-tui-xue-tui-fei-biao-zhun.md)
+  * [4.13.全人關懷獎學金辦法](4.-jiao-wu-xue-wu-gui-zhang/4.13.-quan-ren-guan-huai-jiang-xue-jin-ban-fa.md)
 * [5. 校內表格](5.-xiao-nei-biao-ge/README.md)
   * [5.1. 轉出休學復學申請書](5.-xiao-nei-biao-ge/5.1.-zhuan-chu-xiu-xue-fu-xue-shen-qing-shu.md)
   * [5.2. 交換學生申請書](5.-xiao-nei-biao-ge/5.2.-jiao-huan-xue-sheng-shen-qing-shu.md)

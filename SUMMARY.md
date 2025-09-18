@@ -6,7 +6,6 @@
   * [1.2. 全人中學是一所什麼樣的學校？](1.-zong-shuo/1.2.-quan-ren-zhong-xue-shi-yi-suo-shi-mo-yang-de-xue-xiao.md)
   * [1.3. 校友說故事](1.-zong-shuo/1.3.-xiao-you-shuo-gu-shi.md)
 * [2. 民主生活](2.-min-zhu-sheng-huo/README.md)
-  * [Untitled](2.-min-zhu-sheng-huo/untitled-1.md)
   * [2.1. 自治會](2.-min-zhu-sheng-huo/2.1.-zi-zhi-hui/README.md)
     * [2.1.1. 自治會組織章程](2.-min-zhu-sheng-huo/2.1.-zi-zhi-hui/2.1.1.-zi-zhi-hui-zu-zhi-zhang-cheng.md)
     * [2.1.2. 議事規則](2.-min-zhu-sheng-huo/2.1.-zi-zhi-hui/2.1.2.-yi-shi-gui-ze.md)
@@ -17,7 +16,6 @@
   * [2.6. 上訴辦法](2.-min-zhu-sheng-huo/2.6.-shang-su-ban-fa.md)
   * [2.7.公共案件駁回辦法](2.-min-zhu-sheng-huo/untitled.md)
 * [3. 校務＆生活規章](3.-xiao-wu-sheng-huo-gui-zhang/README.md)
-  * [Untitled](3.-xiao-wu-sheng-huo-gui-zhang/untitled.md)
   * [3.1. 校規](3.-xiao-wu-sheng-huo-gui-zhang/3.1.-xiao-gui.md)
   * [3.2. 生活公約](3.-xiao-wu-sheng-huo-gui-zhang/3.2.-sheng-huo-gong-yue/README.md)
     * [Untitled](3.-xiao-wu-sheng-huo-gui-zhang/3.2.-sheng-huo-gong-yue/untitled.md)
@@ -57,4 +55,3 @@
 * [6. 附錄](6.-fu-lu/README.md)
   * [6.1. 建議閱讀書目、電影觀賞說明](6.-fu-lu/6.1.-jian-yi-yue-du-shu-mu-dian-ying-guan-shang-shuo-ming.md)
   * [6.2. 建議電影觀賞片單](6.-fu-lu/6.2.-jian-yi-dian-ying-guan-shang-pian-dan.md)
-
